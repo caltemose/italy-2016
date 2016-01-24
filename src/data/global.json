@@ -115,7 +115,7 @@
                 "location": "taormina",
                 "items": [
                     {
-                        "text": "Hit the road"
+                        "text": "Travel to Taormina"
                     }
                 ]
             }, {
@@ -124,6 +124,159 @@
                 "items": [
                     {
                         "text": "Swim/Beach"
+                    }
+                ]
+            }, {
+                "date": "2015-09-01",
+                "location": "taormina",
+                "items": []
+            }, {
+                "date": "2015-09-02",
+                "location": "taormina",
+                "items": [
+                    {
+                        "text": "Swim/Beach"
+                    }
+                ]
+            }, {
+                "date": "2015-09-03",
+                "location": "taormina",
+                "items": [
+                    {
+                        "text": "Visit Etna and Valle Alcantara"
+                    }
+                ]
+            }, {
+                "date": "2015-09-04",
+                "location": "taormina",
+                "items": [
+                    {
+                        "text": "Visit hilltop town above Taormina"
+                    }
+                ]
+            }, {
+                "date": "2015-09-05",
+                "location": "palermo",
+                "items": [
+                    {
+                        "text": "Travel to Palermo"
+                    }
+                ]
+            }, {
+                "date": "2015-09-06",
+                "location": "palermo",
+                "items": [
+                    {
+                        "text": "Groceries, rest"
+                    }
+                ]
+            }, {
+                "date": "2015-09-07",
+                "location": "palermo",
+                "items": [
+                    {
+                        "text": "Vedere i teatri"
+                    }
+                ]
+            }, {
+                "date": "2015-09-08",
+                "location": "palermo",
+                "items": [
+                    {
+                        "text": "Hang out with old ladies"
+                    }
+                ]
+            }, {
+                "date": "2015-09-10",
+                "location": "palermo",
+                "items": [
+                    {
+                        "text": "Visit Vineyard"
+                    }
+                ]
+            }, {
+                "date": "2015-09-11",
+                "location": "palermo",
+                "items": [
+                    {
+                        "text": "Do something fun"
+                    }
+                ]
+            }, {
+                "date": "2015-09-12",
+                "location": "palermo",
+                "items": [
+                    {
+                        "text": "Celebrate Mom's birthday!"
+                    }
+                ]
+            }, {
+                "date": "2015-09-13",
+                "location": "palermo",
+                "items": [
+                    {
+                        "text": "Something else"
+                    }
+                ]
+            }, {
+                "date": "2015-09-14",
+                "location": "palermo",
+                "items": [
+                ]
+            }, {
+                "date": "2015-09-15",
+                "location": "palermo",
+                "items": [
+                    {
+                        "text": "Something else"
+                    }
+                ]
+            }, {
+                "date": "2015-09-16",
+                "location": "palermo",
+                "items": [
+                    {
+                        "text": "Something else"
+                    }
+                ]
+            }, {
+                "date": "2015-09-17",
+                "location": "palermo",
+                "items": [
+                    {
+                        "text": "Something else"
+                    }
+                ]
+            }, {
+                "date": "2015-09-18",
+                "location": "palermo",
+                "items": [
+                    {
+                        "text": "Something else"
+                    }
+                ]
+            }, {
+                "date": "2015-09-19",
+                "location": "palermo",
+                "items": [
+                    {
+                        "text": "Something else"
+                    }
+                ]
+            }, {
+                "date": "2015-09-20",
+                "location": "palermo",
+                "items": [
+                    {
+                        "text": "Prep for going home. Boo!"
+                    }
+                ]
+            }, {
+                "date": "2015-09-21",
+                "location": "atlanta",
+                "items": [
+                    {
+                        "text": "Go home. Boo!"
                     }
                 ]
             }

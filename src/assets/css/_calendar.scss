@@ -1,5 +1,9 @@
+$max-width: 42em;
+
 h1 {
-    margin: 1em 0.5em;
+    margin: 1em auto;
+    max-width: $max-width;
+    text-align: center;
 }
 
 ul {
@@ -16,7 +20,7 @@ li {
 .Days {
     margin: 0 auto;
     width: 100%;
-    max-width: 42em;
+    max-width: $max-width;
 }
 
 .Day {
@@ -39,6 +43,9 @@ li {
     background: rgba(255, 239, 175, 0.5);
 }
 
+.Day--palermo {
+    background: rgba(255, 175, 179, 0.5);
+}
 
 // Day Header components
 
