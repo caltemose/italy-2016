@@ -21,11 +21,7 @@
             }, {
                 "date": "2015-08-19",
                 "location": "naples",
-                "items": [
-                    {
-                        "text": "Eat Pizza!"
-                    }
-                ]
+                "items": []
             }, {
                 "date": "2015-08-20",
                 "location": "naples",
@@ -37,27 +33,15 @@
             }, {
                 "date": "2015-08-21",
                 "location": "naples",
-                "items": [
-                    {
-                        "text": "See dead people at Pompeii"
-                    }
-                ]
+                "items": []
             }, {
                 "date": "2015-08-22",
                 "location": "naples",
-                "items": [
-                    {
-                        "text": "Ride Vespa"
-                    }
-                ]
+                "items": []
             }, {
                 "date": "2015-08-23",
                 "location": "naples",
-                "items": [
-                    {
-                        "text": "Eat More Pizza!"
-                    }
-                ]
+                "items": []
             }, {
                 "date": "2015-08-24",
                 "location": "abruzzo",
@@ -71,21 +55,11 @@
             }, {
                 "date": "2015-08-25",
                 "location": "abruzzo",
-                "items": [
-                    {
-                        "text": "Visit Tornareccio"
-                    }, {
-                        "text": "Eat local mozzarella"
-                    }
-                ]
+                "items": []
             }, {
                 "date": "2015-08-26",
                 "location": "abruzzo",
-                "items": [
-                    {
-                        "text": "Go kayaking"
-                    }
-                ]
+                "items": []
             }, {
                 "date": "2015-08-27",
                 "location": "abruzzo",
@@ -121,23 +95,19 @@
             }, {
                 "date": "2015-08-31",
                 "location": "taormina",
-                "items": [
-                    {
-                        "text": "Swim/Beach"
-                    }
-                ]
+                "items": []
             }, {
                 "date": "2015-09-01",
                 "location": "taormina",
-                "items": []
+                "items": [
+                    {
+                        "text": "Visit hilltop town above Taormina"
+                    }
+                ]
             }, {
                 "date": "2015-09-02",
                 "location": "taormina",
-                "items": [
-                    {
-                        "text": "Swim/Beach"
-                    }
-                ]
+                "items": []
             }, {
                 "date": "2015-09-03",
                 "location": "taormina",
@@ -149,11 +119,7 @@
             }, {
                 "date": "2015-09-04",
                 "location": "taormina",
-                "items": [
-                    {
-                        "text": "Visit hilltop town above Taormina"
-                    }
-                ]
+                "items": []
             }, {
                 "date": "2015-09-05",
                 "location": "palermo",
@@ -173,35 +139,19 @@
             }, {
                 "date": "2015-09-07",
                 "location": "palermo",
-                "items": [
-                    {
-                        "text": "Vedere i teatri"
-                    }
-                ]
+                "items": []
             }, {
                 "date": "2015-09-08",
                 "location": "palermo",
-                "items": [
-                    {
-                        "text": "Hang out with old ladies"
-                    }
-                ]
+                "items": []
             }, {
                 "date": "2015-09-10",
                 "location": "palermo",
-                "items": [
-                    {
-                        "text": "Visit Vineyard"
-                    }
-                ]
+                "items": []
             }, {
                 "date": "2015-09-11",
                 "location": "palermo",
-                "items": [
-                    {
-                        "text": "Do something fun"
-                    }
-                ]
+                "items": []
             }, {
                 "date": "2015-09-12",
                 "location": "palermo",
@@ -213,11 +163,7 @@
             }, {
                 "date": "2015-09-13",
                 "location": "palermo",
-                "items": [
-                    {
-                        "text": "Something else"
-                    }
-                ]
+                "items": []
             }, {
                 "date": "2015-09-14",
                 "location": "palermo",
@@ -226,51 +172,27 @@
             }, {
                 "date": "2015-09-15",
                 "location": "palermo",
-                "items": [
-                    {
-                        "text": "Something else"
-                    }
-                ]
+                "items": []
             }, {
                 "date": "2015-09-16",
                 "location": "palermo",
-                "items": [
-                    {
-                        "text": "Something else"
-                    }
-                ]
+                "items": []
             }, {
                 "date": "2015-09-17",
                 "location": "palermo",
-                "items": [
-                    {
-                        "text": "Something else"
-                    }
-                ]
+                "items": []
             }, {
                 "date": "2015-09-18",
                 "location": "palermo",
-                "items": [
-                    {
-                        "text": "Something else"
-                    }
-                ]
+                "items": []
             }, {
                 "date": "2015-09-19",
                 "location": "palermo",
-                "items": [
-                    {
-                        "text": "Something else"
-                    }
-                ]
+                "items": []
             }, {
                 "date": "2015-09-20",
                 "location": "palermo",
-                "items": [
-                    {
-                        "text": "Prep for going home. Boo!"
-                    }
-                ]
+                "items": []
             }, {
                 "date": "2015-09-21",
                 "location": "atlanta",
