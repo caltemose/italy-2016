@@ -1,3 +1,132 @@
 {
-    "title": "Gulp Starter"
+    "title": "Italy 2016",
+    "calendar": {
+        "days": [
+            {
+                "date": "2015-08-17",
+                "location": "atlanta",
+                "items": [
+                    {
+                        "text": "Leave Atlanta"
+                    }
+                ]
+            }, {
+                "date": "2015-08-18",
+                "location": "naples",
+                "items": [
+                    {
+                        "text": "Arrive Naples/Amalfi"
+                    }
+                ]
+            }, {
+                "date": "2015-08-19",
+                "location": "naples",
+                "items": [
+                    {
+                        "text": "Eat Pizza!"
+                    }
+                ]
+            }, {
+                "date": "2015-08-20",
+                "location": "naples",
+                "items": [
+                    {
+                        "text": "Celebrate Chad's Birthday!"
+                    }
+                ]
+            }, {
+                "date": "2015-08-21",
+                "location": "naples",
+                "items": [
+                    {
+                        "text": "See dead people at Pompeii"
+                    }
+                ]
+            }, {
+                "date": "2015-08-22",
+                "location": "naples",
+                "items": [
+                    {
+                        "text": "Ride Vespa"
+                    }
+                ]
+            }, {
+                "date": "2015-08-23",
+                "location": "naples",
+                "items": [
+                    {
+                        "text": "Eat More Pizza!"
+                    }
+                ]
+            }, {
+                "date": "2015-08-24",
+                "location": "abruzzo",
+                "items": [
+                    {
+                        "text": "Travel to Abruzzo"
+                    }, {
+                        "text": "Celebrate Dad's B-day"
+                    }
+                ]
+            }, {
+                "date": "2015-08-25",
+                "location": "abruzzo",
+                "items": [
+                    {
+                        "text": "Visit Tornareccio"
+                    }, {
+                        "text": "Eat local mozzarella"
+                    }
+                ]
+            }, {
+                "date": "2015-08-26",
+                "location": "abruzzo",
+                "items": [
+                    {
+                        "text": "Go kayaking"
+                    }
+                ]
+            }, {
+                "date": "2015-08-27",
+                "location": "abruzzo",
+                "items": [
+                    {
+                        "text": "Mangia bene nella cucina al fresco"
+                    }
+                ]
+            }, {
+                "date": "2015-08-28",
+                "location": "abruzzo",
+                "items": [
+                    {
+                        "text": "Festival Day 1"
+                    }
+                ]
+            }, {
+                "date": "2015-08-29",
+                "location": "abruzzo",
+                "items": [
+                    {
+                        "text": "Festival Day 2"
+                    }
+                ]
+            }, {
+                "date": "2015-08-30",
+                "location": "taormina",
+                "items": [
+                    {
+                        "text": "Hit the road"
+                    }
+                ]
+            }, {
+                "date": "2015-08-31",
+                "location": "taormina",
+                "items": [
+                    {
+                        "text": "Swim/Beach"
+                    }
+                ]
+            }
+        ]
+    }
 }

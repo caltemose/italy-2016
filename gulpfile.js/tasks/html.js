@@ -10,7 +10,7 @@ var htmlmin      = require('gulp-htmlmin')
 var path         = require('path')
 var jade = require('gulp-jade')
 var fs           = require('fs')
-
+var moment = require('moment')
 
 var exclude = path.normalize('!**/{' + config.tasks.html.excludeFolders.join(',') + '}/**')
 
@@ -26,8 +26,12 @@ var getData = function(file) {
 }
 
 var htmlTask = function() {
+    var options = config.tasks.html.jade;
+    options.data = getData();
+    options.data.moment = moment;
+    // console.log(options.data);
     return gulp.src(paths.src)
-        .pipe(jade(config.tasks.html.jade))
+        .pipe(jade(options))
         .on('error', handleErrors)
         // .pipe(gulpif(process.env.NODE_ENV == 'production', htmlmin(config.tasks.html.htmlmin)))
         .pipe(gulp.dest(config.root.dest))

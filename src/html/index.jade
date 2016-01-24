@@ -1,9 +1,27 @@
 extends ./templates/layout.jade
 
 block title 
-    title Gulp Starter Index
+    title Italy 2016
 
 block contents
-    h1 Gulp Starter Index
-    
-    p Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+    main
+
+        h1 #{title} Calendar
+        
+        ul.Days
+        
+            each day in calendar.days
+                
+                li(class="Day Day--#{day.location}")
+                    .DayHeader
+                        .DayHeader-day #{moment(day.date).format('dddd')}
+                        .DayHeader-date
+                            .DayHeader-month #{moment(day.date).format('MMMM')}
+                            .DayHeader-number #{moment(day.date).format('DD')}
+                    
+                    ul.DayBody
+                        
+                        each item in day.items
+                        
+                            li= item.text
